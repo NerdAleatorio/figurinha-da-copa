@@ -25,5 +25,5 @@ Acesse através [deste link](https://nerdaleatorio.github.io/figurinha-da-copa).
 
 ## 👨🏻‍🎓 Desenvolvedor
 
-| [<img src="./static/img/me.jpeg" width=115><br><sub>Ian Vinícius Vasconcelos</sub>](https://github.com/NerdAleatorio) |  
+| [<img src="me.jpeg" width=115><br><sub>Ian Vinícius Vasconcelos</sub>](https://github.com/NerdAleatorio) |  
 | :---: | 
