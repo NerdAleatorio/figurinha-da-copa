@@ -21,7 +21,7 @@ Minha própria figurinha da copa! Projeto simples usando a tríade web.
 
 ## 📌 Visualizar o projeto
 - Acione a função dando um clique na figurinha!
-Acesse através [deste link](https://nerdaleatorio.github.io/figurinha-da-copa).
+- Acesse através [deste link](https://nerdaleatorio.github.io/figurinha-da-copa).
 
 ## 👨🏻‍🎓 Desenvolvedor
 
