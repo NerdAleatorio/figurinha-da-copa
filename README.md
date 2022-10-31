@@ -1,7 +1,7 @@
 # NLW Copa - Minha figurinha
 ![image.png](mycard.png)
 
-## Introdução? 
+## Introdução 
 
 Minha própria figurinha da copa! Projeto simples usando a tríade web.
 
@@ -21,7 +21,7 @@ Minha própria figurinha da copa! Projeto simples usando a tríade web.
 
 ## 📌 Visualizar o projeto
 
-Acesse através [deste link](https://myportfolioiv.herokuapp.com/).
+Acesse através [deste link](https://nerdaleatorio.github.io/figurinha-da-copa).
 
 ## 👨🏻‍🎓 Desenvolvedor
 
