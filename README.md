@@ -1,24 +1,15 @@
 # NLW Copa - Minha figurinha
-![image.png](./static/img/V.png)
+![image.png](mycard.png)
 
-## Índice
-* [O que é?](#%EF%B8%8F-o-que-é-?)
-* [Tecnologias implementadas](#%EF%B8%8F-tecnologias-implementadas)
-* [Ambientes de desenvolvimento](#%EF%B8%8F-ambientes-de-desenvolvimento)
-* [Sites utilizados](#-sites-utilizados)
-* [Visualizar o projeto](#-visualizar-o-projeto)
-* [Desenvolvedor](#-desenvolvedor)
+## Introdução? 
 
-## O que é? 
-
-Portfólio completo contendo informações sobre seu autor, como habilidades, competências, projetos e mais! 
+Minha própria figurinha da copa! Projeto simples usando a tríade web.
 
 ## ⚙️ Tecnologias implementadas
 
 - ``HMTL``
 - ``CSS``
 - ``JS``
-- ``Python``
 
 ## 🌌 Ambientes de desenvolvimento
 
@@ -27,7 +18,6 @@ Portfólio completo contendo informações sobre seu autor, como habilidades, co
 ## 🌠 Sites utilizados
 
 - ``Github``
-- ``Heroku``
 
 ## 📌 Visualizar o projeto
 
